@@ -1,0 +1,11 @@
+{"time":"2025-02-25T02:18:14.761509+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/Users/arsharora/Desktop/python sem4/MLPR_Lab-5/wandb/run-20250225_021814-wczqk2pi/logs/debug-core.log"}
+{"time":"2025-02-25T02:18:14.872973+05:30","level":"INFO","msg":"created new stream","id":"wczqk2pi"}
+{"time":"2025-02-25T02:18:14.873027+05:30","level":"INFO","msg":"stream: started","id":"wczqk2pi"}
+{"time":"2025-02-25T02:18:14.873204+05:30","level":"INFO","msg":"handler: started","stream_id":"wczqk2pi"}
+{"time":"2025-02-25T02:18:14.873426+05:30","level":"INFO","msg":"sender: started","stream_id":"wczqk2pi"}
+{"time":"2025-02-25T02:18:14.873433+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wczqk2pi"}
+{"time":"2025-02-25T02:18:15.259529+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-25T02:18:15.322263+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T02:18:17.659095+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-25T02:18:17.930039+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T02:18:35.347693+05:30","level":"INFO","msg":"Resuming system monitor"}

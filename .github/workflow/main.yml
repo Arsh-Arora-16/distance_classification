@@ -1,0 +1,24 @@
+name: Run Tests & Notebook
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install numpy pandas scikit-learn opencv-python wandb
+
+      - name: Run Jupyter notebook
+        run: |
+          pip install nbconvert
+          jupyter nbconvert --execute --to notebook --inplace 'Lab 5-Spring 2025.ipynb'

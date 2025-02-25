@@ -1,0 +1,40 @@
+{
+  "os":  "macOS-15.3-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.1",
+  "startedAt":  "2025-02-24T20:09:36.022841Z",
+  "program":  "/Users/arsharora/Desktop/python sem4/MLPR_Lab-5/main.ipynb",
+  "codePath":  "main.ipynb",
+  "email":  "arora.arsh2006@gmail.com",
+  "root":  "/Users/arsharora/Desktop/python sem4/MLPR_Lab-5",
+  "host":  "arshs-MacBook-Air.local",
+  "executable":  "/usr/local/bin/python3",
+  "codePathLocal":  "main.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "226453544960"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "226453544960"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M2",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  8,
+    "swapTotalBytes":  "5368709120",
+    "ramTotalBytes":  "8589934592"
+  }
+}

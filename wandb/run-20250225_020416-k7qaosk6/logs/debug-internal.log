@@ -1,0 +1,9 @@
+{"time":"2025-02-25T02:04:16.657645+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/Users/arsharora/Desktop/python sem4/MLPR_Lab-5/wandb/run-20250225_020416-k7qaosk6/logs/debug-core.log"}
+{"time":"2025-02-25T02:04:16.76785+05:30","level":"INFO","msg":"created new stream","id":"k7qaosk6"}
+{"time":"2025-02-25T02:04:16.767911+05:30","level":"INFO","msg":"stream: started","id":"k7qaosk6"}
+{"time":"2025-02-25T02:04:16.768063+05:30","level":"INFO","msg":"handler: started","stream_id":"k7qaosk6"}
+{"time":"2025-02-25T02:04:16.768382+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"k7qaosk6"}
+{"time":"2025-02-25T02:04:16.768514+05:30","level":"INFO","msg":"sender: started","stream_id":"k7qaosk6"}
+{"time":"2025-02-25T02:04:17.233337+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-25T02:04:17.300148+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-25T02:04:17.306196+05:30","level":"INFO","msg":"Resuming system monitor"}
